@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.bridgelabz.testng.FacebookTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2021-10-10T13:46:26" hostname="IN-7PQMK13" time="22.043">
+  <properties/>
+  <testcase name="launchFB_Application" classname="com.bridgelabz.testng.FacebookTest" time="1.416"/>
+  <testcase name="launchFK_Application" classname="com.bridgelabz.testng.FacebookTest" time="20.623"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
